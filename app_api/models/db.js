@@ -1,5 +1,5 @@
 var mongoose  =require("mongoose");
-var dbURI="mongodb+srv://iremmaydan:uLlkRN55rSCqZRLG@cluster0.iytchsd.mongodb.net/?retryWrites=true&w=majority"
+var dbURI="mongodb+srv://iremmaydan:uLlkRN55rSCqZRLG@cluster0.iytchsd.mongodb.net/?retryWrites=true&w=majority/mekanbul"
 
 //var dbURI= "mongodb://127.0.0.1/mekanbul";
 mongoose.connect(dbURI);
